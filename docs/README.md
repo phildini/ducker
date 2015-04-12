@@ -30,4 +30,4 @@ the libraries to use to make those things happen.
 
 The answering engine is a complete unknown to me, and anyone with ideas
 or experience greatly appreciated. Create a pull request/issue, or ping
-#docker on freenode. 
+`#docker` on freenode. 
