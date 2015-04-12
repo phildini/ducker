@@ -2,11 +2,23 @@
 Quack at your docs
 
 ```
-<aldeka_a_> idea for trolling: give a lightning talk at pycon about a new program called 'ducker', 
-a helpful eliza-type bot that will help you rubber-duck through problems with major libraries, 
-starting with docker but expanding outward from there
-<aldeka_a_> like, a program that consumes sphinx documentation and outputs incisive 20-questions 
-style questions. or at least feigns nodding in sympathy well.
-<aldeka_a_> actually the more I think about it the more I think this is something that could 
-be a real and useful thing. troll fail.
+<aldeka_a_> idea for trolling: give a lightning talk at pycon about a 
+new program called 'ducker', a helpful eliza-type bot that will help you 
+rubber-duck through problems with major libraries, starting with docker 
+but expanding outward from there
+<aldeka_a_> like, a program that consumes sphinx documentation and 
+outputs incisive 20-questions style questions. or at least feigns 
+nodding in sympathy well.
+<aldeka_a_> actually the more I think about it the more I think this is 
+something that could be a real and useful thing. troll fail.
 ```
+
+Getting Started
+---------------
+
+- Make a virtualenv with python3
+- `pip install -r requirements.txt`
+- Run tests with `nostests tests.tests`
+
+Pull requests welcome. Join #ducker on freenode. Check the docs folder
+for more.
